@@ -4,8 +4,8 @@ public class Principal {
 
     public static void main(String[] args) {
 
-        Filho filho1 = new Filho("Maria","Jorge","Jose");
-        Filho filho2 = new Filho("Maria","Fernando","Ana");
+        Filho filho1 = new Filho("Mariah","Jorge","Jose");
+        Filho filho2 = new Filho("Mariah","Fernando","Ana");
 
         System.out.println(saoMeioIrmaos(filho1,filho2));
     }
